@@ -19,3 +19,10 @@ char inicial = 'F';
 //tipos de dados logicos
 bool isLogged = true;
 bool active = false;
+
+//tipos de dados nao primitivos
+string saudacao = "Ola mundo!";
+
+//arrays
+int[] numeros = {1, 2, 3, 4, 5};
+string[] nomes = {"Fernando", "Suzana", "Daniely"};

@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\bin\Debug\net7.0\variaveis.exe
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\bin\Debug\net7.0\variaveis.deps.json
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\bin\Debug\net7.0\variaveis.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\bin\Debug\net7.0\variaveis.dll
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\bin\Debug\net7.0\variaveis.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\variaveis.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\variaveis.dll
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\refint\variaveis.dll
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\variaveis.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\variaveis.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\csharp\variaveis\obj\Debug\net7.0\ref\variaveis.dll

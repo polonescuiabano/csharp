@@ -26,3 +26,37 @@ string saudacao = "Ola mundo!";
 //arrays
 int[] numeros = {1, 2, 3, 4, 5};
 string[] nomes = {"Fernando", "Suzana", "Daniely"};
+
+//classes
+
+public class Pessoa
+{
+    public string Nome;
+    public int idade;
+}
+
+//Structs
+public class Ponto
+{
+    public int x;
+    public int y;
+}
+
+//enums
+public enum diaDaSemana
+{
+    Segunda, Terca, Quarta, Quinta, Sexta, Sabado, Domingo
+}
+
+//interface
+public interface IVeiculo
+{
+    void Mover();
+}
+
+//delegates
+public delegate void Processar(int numero);
+
+//Nullable types
+int? idade = null;
+

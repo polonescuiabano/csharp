@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics.Contracts;
+using System.Runtime.Serialization;
 
 //Tipos de dados primitivos
 short ano = 2025;
@@ -57,6 +58,9 @@ public interface IVeiculo
 //delegates
 public delegate void Processar(int numero);
 
-//Nullable types
-int? idade = null;
 
+
+//Nullable types
+namespace idade{
+    int? idade = null;
+}

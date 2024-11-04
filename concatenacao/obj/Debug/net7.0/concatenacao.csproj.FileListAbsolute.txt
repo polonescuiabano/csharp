@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\bin\Debug\net7.0\concatenacao.exe
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\bin\Debug\net7.0\concatenacao.deps.json
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\bin\Debug\net7.0\concatenacao.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\bin\Debug\net7.0\concatenacao.dll
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\bin\Debug\net7.0\concatenacao.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\concatenacao.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\concatenacao.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\concatenacao.dll
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\refint\concatenacao.dll
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\concatenacao.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\concatenacao.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\csharp\concatenacao\obj\Debug\net7.0\ref\concatenacao.dll

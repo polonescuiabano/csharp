@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\estruturas-de-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\estruturas-de-repeticao.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\estruturas-de-repeticao.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\estruturas-de-repeticao.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\bin\Debug\net7.0\estruturas-de-repeticao.exe
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\bin\Debug\net7.0\estruturas-de-repeticao.deps.json
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\bin\Debug\net7.0\estruturas-de-repeticao.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\bin\Debug\net7.0\estruturas-de-repeticao.dll
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\bin\Debug\net7.0\estruturas-de-repeticao.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\estruturas-de-repeticao.dll
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\refint\estruturas-de-repeticao.dll
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\estruturas-de-repeticao.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\estruturas-de-repeticao.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\csharp\estruturas-de-repeticao\obj\Debug\net7.0\ref\estruturas-de-repeticao.dll

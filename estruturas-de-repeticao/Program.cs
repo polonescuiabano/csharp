@@ -17,7 +17,13 @@
 //     numero1++;
 // } while (numero1<=10);
 
-for(int i=0;i<=10;i++)
+// for(int i=0;i<=10;i++)
+// {
+//     Console.WriteLine($"Valor de i: {i}");
+// }
+
+string[] nomes = {"Fernando", "Daniely", "Suzana"};
+foreach (string nome in nomes)
 {
-    Console.WriteLine($"Valor de i: {i}");
+    Console.WriteLine(nome);
 }

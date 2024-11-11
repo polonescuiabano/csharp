@@ -64,3 +64,5 @@
 
 //crie um algoritmo onde o computador escolhe um numero aleatorio entre 1 e 100, e o usuario deve adivinhar.
 //apos cada tentativa o programa indica se o numero e maior ou menor
+
+

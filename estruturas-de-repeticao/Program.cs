@@ -29,14 +29,14 @@
 // }
 
 
+// int soma = 0;
 // for(int i=1;i<=100;i++)
 // {
 //     if(i%2==0){
-//         int soma = soma+i;
+//         soma = soma+i;
 //     }
 // }
 // Console.WriteLine(soma);
-
 
 // int? i = null;
 // for(i=10; i>=1; i--)
@@ -45,24 +45,55 @@
 // }
 // Console.WriteLine("Decolar!");
 
-// string[] vogais = {"a", "e", "i", "o", "u"};
-// foreach(string vogal in vogais)
-// {
-//     int soma=1+soma;
-// }
-// Console.WriteLine(soma);
+// Console.WriteLine("Escreva uma palavra ou frase");
+// string resp = Console.ReadLine().ToLower.Replace("","");
+// int contagemVogais = 0;
 
-// Console.WriteLine("Escreva sua palavra ou frase: ");
-// string palavra = Console.ReadLine();
-
-// foreach(palavras in reverse(palavra))
-// {
-//     if (palavras==palavra){
-//         Console.WriteLine("Sua palavra ou frase e um palindromo");
+// foreach (char letra in palavra){
+//     if("aeiou".contains(letra)){
+//         contagemVogais++;
 //     }
 // }
+// Console.WriteLine(contagemVogais);
 
-//crie um algoritmo onde o computador escolhe um numero aleatorio entre 1 e 100, e o usuario deve adivinhar.
-//apos cada tentativa o programa indica se o numero e maior ou menor
+// Console.WriteLine("Escreva sua palavra ou frase: ");
+// string palavra = Console.ReadLine().ToLower().Replace(" ","");
+// string reverso = new string(palavra.Reverse().ToArray());
+
+// if(reverso == palavra){
+//     Console.WriteLine("Sua palavra ou frase e um palindromo");
+// }else{
+//     Console.WriteLine("Nao e um palindromo");
+// }
+
+
+Random random = new Random();
+int numeroAleatorio = random.Next(1,101);
+int tentativa;
+int contador = 0;
+bool acertou = false;
+
+Console.WriteLine("Tente adivinhar o numero entre 1 e 100");
+
+while (!acertou){
+    Console.WriteLine("Digite seu palpite");
+    tentativa = int.Parse(Console.ReadLine());
+
+    if(tentativa< numeroAleatorio){
+        Console.WriteLine("O numero e maior");
+        contador++;
+    }
+    else if (tentativa > numeroAleatorio){
+        Console.WriteLine("O numero e menor");
+        contador++;
+    }
+    else{
+        contador++;
+        Console.WriteLine($"Parabens, vc acertou depois de {contador} tentativas");
+        acertou = true;
+    }
+}
+
+
 
 

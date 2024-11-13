@@ -131,33 +131,35 @@
 //     Console.WriteLine("Reprovado");
 // }
 
-Console.WriteLine("Choveu?");
-string? resp = Console.ReadLine();
-string? resp1 = resp.ToLower();
-if(resp1=="sim"){
-    bool resultado = true;
-    if(!resultado==false){
-        Console.WriteLine("Vai pedalar outro dia!");
-    }else{  
-        Console.WriteLine("Esta tarde?");
-        string? resp2 = Console.ReadLine();
-        string? resp3 = resp2.ToLower();
-        if(resp3=="sim"){
-            Console.WriteLine("Vai pedalar outro dia");
-        }else{
-            Console.WriteLine("Vai pedalar agora!!");
-        }
-    }
-}else{
-    Console.WriteLine("Esta tarde?");
-        string? resp2 = Console.ReadLine();
-        string? resp3 = resp2.ToLower();
-        if(resp3=="sim"){
-            Console.WriteLine("Vai pedalar outro dia");
-        }else{
-            Console.WriteLine("Vai pedalar agora!!");
-        }
-}
+// Console.WriteLine("Choveu?");
+// string? resp = Console.ReadLine();
+// string? resp1 = resp.ToLower();
+// if(resp1=="sim"){
+//     bool resultado = true;
+//     if(!resultado==false){
+//         Console.WriteLine("Vai pedalar outro dia!");
+//     }else{  
+//         Console.WriteLine("Esta tarde?");
+//         string? resp2 = Console.ReadLine();
+//         string? resp3 = resp2.ToLower();
+//         if(resp3=="sim"){
+//             Console.WriteLine("Vai pedalar outro dia");
+//         }else{
+//             Console.WriteLine("Vai pedalar agora!!");
+//         }
+//     }
+// }else{
+//     Console.WriteLine("Esta tarde?");
+//         string? resp2 = Console.ReadLine();
+//         string? resp3 = resp2.ToLower();
+//         if(resp3=="sim"){
+//             Console.WriteLine("Vai pedalar outro dia");
+//         }else{
+//             Console.WriteLine("Vai pedalar agora!!");
+//         }
+// }
+
+
 
 
 

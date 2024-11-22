@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\poo-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\poo-csharp.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\poo-csharp.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\poo-csharp.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\bin\Debug\net7.0\poo-csharp.exe
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\bin\Debug\net7.0\poo-csharp.deps.json
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\bin\Debug\net7.0\poo-csharp.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\bin\Debug\net7.0\poo-csharp.dll
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\bin\Debug\net7.0\poo-csharp.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\poo-csharp.dll
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\refint\poo-csharp.dll
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\poo-csharp.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\poo-csharp.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\csharp\poo-csharp\obj\Debug\net7.0\ref\poo-csharp.dll

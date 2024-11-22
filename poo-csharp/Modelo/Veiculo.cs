@@ -9,7 +9,7 @@ namespace poo_csharp.Modelo{
             this.marca = marca;
             this.modelo = modelo;
             this.ano = ano;
-            this velocidadeAtual = velocidadeAtual;
+            this.velocidadeAtual = velocidadeAtual;
         }
         public void Acelerar(double incremento){
             velocidadeAtual += incremento;
@@ -17,7 +17,7 @@ namespace poo_csharp.Modelo{
         }
         public void Freiar(double decremento){
             velocidadeAtual -= decremento;
-            Console.WriteLine($"Freiando... Velocidade atual {velocidadeAtual} km/h")
+            Console.WriteLine($"Freiando... Velocidade atual {velocidadeAtual} km/h");
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\exercicios-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\exercicios-classes.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\exercicios-classes.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\exercicios-classes.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\bin\Debug\net7.0\exercicios-classes.exe
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\bin\Debug\net7.0\exercicios-classes.deps.json
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\bin\Debug\net7.0\exercicios-classes.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\bin\Debug\net7.0\exercicios-classes.dll
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\bin\Debug\net7.0\exercicios-classes.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\exercicios-classes.dll
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\refint\exercicios-classes.dll
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\exercicios-classes.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\exercicios-classes.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\csharp\exercicios-classes\obj\Debug\net7.0\ref\exercicios-classes.dll

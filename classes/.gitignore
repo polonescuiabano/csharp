@@ -1,0 +1,10 @@
+# Pastas de build
+bin/
+obj/
+
+# Arquivos de configuração do usuário
+*.user
+*.suo
+
+# Pasta do Visual Studio
+.vs/
